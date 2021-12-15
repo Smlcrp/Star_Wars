@@ -1,0 +1,84 @@
+  cd sei
+  372  ls
+  373  mkdir Star_Wars_CLI
+  374  cd Star_Wars_CLI
+  375  git clone https://git.generalassemb.ly/smlcrp/Star_Wars.git
+  376  code .
+  377  ls
+  378  cd Star_Wars
+  379  ls
+  380  mkdir star_wars
+  381  cd star_wars
+  382  mkdir empire rebellion
+  383  cd empire touch darth_vader.txt
+  384  cd empire
+  385  touch darth_vader.txt
+  386  echo "...heavy breathing..."
+  387  echo darth_vader.txt "...heavy breathing..."
+  388  echo "...heavy breathing..." > darth_vader.txt
+  389  touch emperor_palpatine.txt
+  390  mkdir death_star
+  391  mv ~/Star_Wars/star_wars/empire/darth_vader.txt ~/Star_Wars/star_wars/empire/death_star
+  392  ls
+  393  mv darth_vader.txt ~/star_wars/empire/death_star
+  394  ..
+  395  mv empire/darth_vader.txt empire/death_star
+  396  cd rebellion
+  397  touch princess_leia.txt echo "Help me, Obi-Wan... You're my only hope." >princess_leia.txt
+  398  ls
+  399  rm echo
+  400  ls
+  401  cd sei
+  402  ls
+  403  cd Star_Wars_CLI
+  404  ls
+  405  cd Star_Wars
+  406  ls
+  407  cd star_wars/rebellion
+  408  ls
+  409  rm princess_leia.txt
+  410  touch princess_leia.txt echo "Help me, Obi-Wan... You're my only hope."
+  411  rm princess_leia.txt
+  412  cd sei
+  413  cd Star_Wars_CLI/Star_Wars/star_wars/rebellion
+  414  ls
+  415  touch princess_leia.txt
+  416  $echo "Help me, Obi-Wan... You're my only hope." >Princess_leia.txt
+  417  echo "Help me, Obi-Wan... You're my only hope."
+  418  echo "Help me, Obi-Wan... You're my only hope.">princess_leia.txt
+  419  touch obi_wan.txt
+  420  touch luke_skywalker.txt
+  421  mkdir millenium_falcon
+  422  cd millenium_falcon
+  423  touch han-solo.txt chewbacca.txt
+  424  ls
+  425  ..
+  426  ls
+  427  mv luke_skywalker.txt rebellion/millenium_falcon
+  428  mv rebellion/luke_skywalker.txt rebellion/millenium_falcon
+  429  mv luke_skywalker.txt millenium_falcon
+  430  mv obi_wan.txt millenium_falcon
+  431  mv princess_leia.txt millenium_falcon
+  432  ..
+  433  mv star_wars/rebellion/millenium_falcon star_wars/empire/death_star
+  434  mv star_wars/empire/death_star/millenium_falcon* star_wars/empire/death_star
+  435  mv star_wars/empire/death_star/millenium_falcon/* star_wars/empire/death_star
+  436  ls
+  437  cd star_wars
+  438  cd empire/death_star/
+  439  ls
+  440  rm obi-wan.txt
+  441  rm obi_wan.txt
+  442  mv han_solo.txt millenium_falcon
+  443  mv han-solo.txt millenium_falcon
+  444  mv chewbacca.txt millenium_falcon
+  445  mv luke_skywalker.txt millenium_falcon
+  446  mv princess_leia.txt millenium_falcon
+  447  ..
+  448  mv empire/death_star/darth_vader.txt empire
+  449  mv empire/death_star/millenium_falcon rebellion
+  450  cd empire
+  451  lsd
+  452  ls
+  453  rm -rf death_star
+  454  ls
